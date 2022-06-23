@@ -1,9 +1,5 @@
 
-<h3 align="center">React Carplay</h3>
-
-
-<a href="https://www.buymeacoffee.com/rhysm" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>   
-
+<h2 align="center">React Carplay</h2>
 
 
 <!-- TABLE OF CONTENTS -->
